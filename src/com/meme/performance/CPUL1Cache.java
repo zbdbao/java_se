@@ -34,7 +34,7 @@ public class CPUL1Cache {
                 }
             }
 
-            System.out.println("Ended");
+            System.out.println("Ended asd");
 
                 //fast
 //                for (int i = 0; i < DIMENSION_1; i++) {
